@@ -5,4 +5,5 @@ For CSV uploads see the example.csv file
 usage:
 
 php artisan migrate
+
 php artisan serve
